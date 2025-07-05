@@ -27,9 +27,10 @@
 
 <h3 align="center">🌱 Currently Learning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/API%20Frameworks-4FC08D?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Frameworks"/>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
