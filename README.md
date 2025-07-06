@@ -4,7 +4,7 @@
 
 <h3 align="center">Bio</h3>
 <p align="center">
-  I am a Bangkit graduate and currently studying Informatics at Ahmad Dahlan University (UAD). I have a strong interest in software development, design, and data, and I am actively honing my skills in various programming languages and tools.
+  I am a Bangkit graduate and currently studying Informatics at Ahmad Dahlan University (UAD). I have a strong interest in software development and data, and I am actively honing my skills in various programming languages and tools.
 </p>
 
 ---
@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
