@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Coding Cat"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -38,9 +34,7 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 </td>
 <td width="40%">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Coding Cat Animation"/>
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
 
 ### 📍 Based in
 **Yogyakarta, Indonesia**
@@ -54,10 +48,6 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Cat Typing"/>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -89,40 +79,52 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 
 </div>
 
-<div align="left">
-  <img src="https://media.giphy.com/media/dLjdHNjCevB8wfADh4/giphy.gif" width="80" alt="Programming Cat"/>
-</div>
-
 ## 📈 Experience & Development
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 🎓 Educational Journey
-**Bangkit Academy 2024**
+**Bangkit Academy 2024-2025**
 - Machine Learning Track
 - Google Cloud Platform
 - Soft Skills Development
+- Data Science Fundamentals
 
 **Ahmad Dahlan University**
-- Informatics Engineering
+- Informatics Engineering (Current)
 - Algorithm & Data Structure
 - Database Management
+- Software Engineering
+
+### 🏆 Academic Achievements
+- **Bangkit Graduate** - Machine Learning Path
+- **Active Student** at UAD Informatics
+- **Tech Community** Participant
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### 💼 Technical Skills
-**Web Development**
-- Frontend & Backend Development
-- Database Design & Management
-- Responsive Web Design
+### 💼 Development Experience
+**Web Application Projects**
+- [**Community Profile System**](https://github.com/DzakaAl/Web-Profile-Padukuhan-Krapakan) - Village profile website
+- [**Library Management System**](https://github.com/DzakaAl/Peminjaman-Buku-di-Perpustakaan-Tadika-Mesra) - Book lending platform
+- [**Hospital Canteen System**](https://github.com/DzakaAl/Sistem-Pemesanan-Kantin-Rumah-Sakit) - Food ordering platform
+- [**Sports Facility Booking**](https://github.com/DzakaAl/Sistem-Reservasi-Lapangan-Badminton) - Badminton court reservation
 
-**Data Analytics**
-- Data Visualization with Tableau
-- Excel Advanced Functions
-- Statistical Analysis
+### 🛠️ Technical Skills Applied
+**Core Technologies**
+- PHP, MySQL, HTML5, CSS3, JavaScript
+- Bootstrap Framework for responsive design
+- Git version control and VS Code development
+- Database design and optimization
+
+**Domain Expertise**
+- Management Information Systems
+- Community-based web solutions
+- Booking and reservation systems
+- User authentication and authorization
 
 </td>
 </tr>
@@ -139,10 +141,6 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 | Responsive Web | Data Modeling | Statistical Analysis | NLP |
 | System Architecture | Query Optimization | Business Intelligence | AI Development |
 
-</div>
-
-<div align="right">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="Smart Cat"/>
 </div>
 
 ## 📈 GitHub Activity
@@ -164,7 +162,7 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 ### 🌐 Web Development
 Building robust web applications with PHP and modern frontend technologies
 
-**Specializing in:** System Development
+**Specializing in:** Management Systems
 
 </td>
 <td width="33%" align="center">
@@ -185,10 +183,6 @@ Combining web development with artificial intelligence capabilities
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" alt="Learning Cat"/>
-</div>
 
 ## 🌟 What Drives Me
 
@@ -238,10 +232,6 @@ Pushing boundaries to create impactful digital solutions
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moredzl)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/665819147334057997)
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120" alt="Hello Cat"/>
-
 </div>
 
 <div align="center">
@@ -253,8 +243,6 @@ Pushing boundaries to create impactful digital solutions
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Thanks for visiting!</b> Open for collaboration and always excited to work on new challenges! 😊</em>
-  <br/><br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Goodbye Cat"/>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
