@@ -241,7 +241,6 @@ Pushing boundaries to create impactful digital solutions
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Thanks for visiting!</b> Open for collaboration and always excited to work on new challenges! 😊</em>
 </div>
 
