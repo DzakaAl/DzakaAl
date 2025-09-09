@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
+<div align="right">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Coding Cat"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -34,7 +38,9 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 </td>
 <td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Coding Cat Animation"/>
+</div>
 
 ### 📍 Based in
 **Yogyakarta, Indonesia**
@@ -48,6 +54,10 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Cat Typing"/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -77,6 +87,10 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+</div>
+
+<div align="left">
+  <img src="https://media.giphy.com/media/dLjdHNjCevB8wfADh4/giphy.gif" width="80" alt="Programming Cat"/>
 </div>
 
 ## 📈 Experience & Development
@@ -127,6 +141,10 @@ I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natura
 
 </div>
 
+<div align="right">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="Smart Cat"/>
+</div>
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -168,11 +186,17 @@ Combining web development with artificial intelligence capabilities
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" alt="Learning Cat"/>
+</div>
+
 ## 🌟 What Drives Me
 
 <div align="center">
 
 > *"I believe in the power of technology to solve real-world problems. My goal is to bridge the gap between web development and data science, creating intelligent applications that make a difference."*
+
+<img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="120" alt="Motivated Cat"/>
 
 </div>
 
@@ -214,6 +238,10 @@ Pushing boundaries to create impactful digital solutions
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moredzl)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/665819147334057997)
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120" alt="Hello Cat"/>
+
 </div>
 
 <div align="center">
@@ -225,6 +253,8 @@ Pushing boundaries to create impactful digital solutions
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Thanks for visiting!</b> Open for collaboration and always excited to work on new challenges! 😊</em>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Goodbye Cat"/>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
