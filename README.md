@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=M.%20Dzaka%20Al%20Fikri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Enthusiast&descAlignY=50&descAlign=center)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=M.%20Dzaka%20Al%20Fikri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Data%20Enthusiast&descAlignY=50&descAlign=center)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,61 +15,35 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const dzaka = {
-  education: "Informatics @ Ahmad Dahlan University",
-  program: "Bangkit Academy Graduate",
-  currentFocus: ["Web Development", "Data Science", "Machine Learning"],
-  location: "Yogyakarta, Indonesia",
-  
-  skills: {
-    languages: ["PHP", "Python", "C++", "C", "JavaScript"],
-    databases: ["MySQL", "PostgreSQL"],
-    tools: ["Excel", "Tableau", "Git", "VS Code"],
-    frameworks: ["Laravel", "Flask", "Bootstrap"]
-  },
-  
-  currentlyLearning: ["Deep Learning", "NLP", "API Development"],
-  hobbies: ["Coding", "Data Analysis", "Problem Solving"]
-};
-```
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🌐 [Web Profile Padukuhan Krapakan](https://github.com/DzakaAl/Web-Profile-Padukuhan-Krapakan)
-Community website built with PHP and MySQL
-- **Tech Stack:** PHP, MySQL, Bootstrap
-- **Features:** Profile management, News system
+### 🎓 Background
+I'm a **Bangkit Academy graduate** currently pursuing my degree in **Informatics at Ahmad Dahlan University (UAD)**. My journey in technology started with a passion for solving real-world problems through code and data.
 
-</td>
-<td width="50%">
+### 🚀 What I Do
+- **Web Development**: Building dynamic websites and web applications using PHP and modern frameworks
+- **Database Management**: Designing and optimizing MySQL databases for efficient data storage
+- **Data Analysis**: Extracting insights from data using Excel and Tableau
+- **System Development**: Creating complete management systems from scratch
 
-### 📚 [Library Management System](https://github.com/DzakaAl/Peminjaman-Buku-di-Perpustakaan-Tadika-Mesra)
-Digital library for book borrowing management
-- **Tech Stack:** PHP, MySQL
-- **Features:** Book catalog, Borrowing system
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍽️ [Hospital Canteen System](https://github.com/DzakaAl/Sistem-Pemesanan-Kantin-Rumah-Sakit)
-Online food ordering system for hospitals
-- **Tech Stack:** PHP, MySQL, JavaScript
-- **Features:** Menu management, Order tracking
+### 🌱 Current Learning Path
+I'm expanding my skills in **Machine Learning**, **Deep Learning**, and **Natural Language Processing** to bridge the gap between web development and data science.
 
 </td>
-<td width="50%">
+<td width="40%">
 
-### 🏸 [Badminton Court Reservation](https://github.com/DzakaAl/Sistem-Reservasi-Lapangan-Badminton)
-Court booking and management system
-- **Tech Stack:** PHP, MySQL
-- **Features:** Booking system, Payment integration
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+
+### 📍 Based in
+**Yogyakarta, Indonesia**
+
+### 🎯 Goals 2025
+- Master Machine Learning
+- Build AI-powered web apps
+- Contribute to open source
+- Complete data science projects
 
 </td>
 </tr>
@@ -79,23 +53,77 @@ Court booking and management system
 
 <div align="center">
 
-### Languages
+### Web Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Analytics
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Currently Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+## 📈 Experience & Development
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎓 Educational Journey
+**Bangkit Academy 2024**
+- Machine Learning Track
+- Google Cloud Platform
+- Soft Skills Development
+
+**Ahmad Dahlan University**
+- Informatics Engineering
+- Algorithm & Data Structure
+- Database Management
+
+</td>
+<td width="50%" align="center">
+
+### 💼 Technical Skills
+**Web Development**
+- Frontend & Backend Development
+- Database Design & Management
+- Responsive Web Design
+
+**Data Analytics**
+- Data Visualization with Tableau
+- Excel Advanced Functions
+- Statistical Analysis
+
+</td>
+</tr>
+</table>
+
+## 📊 Skills & Expertise
+
+<div align="center">
+
+| 💻 Web Development | 🗄️ Database | 📊 Data Analysis | 🎓 Learning |
+|:---:|:---:|:---:|:---:|
+| PHP Development | MySQL Design | Excel Analytics | Machine Learning |
+| Frontend Design | Database Optimization | Tableau Visualization | Deep Learning |
+| Responsive Web | Data Modeling | Statistical Analysis | NLP |
+| System Architecture | Query Optimization | Business Intelligence | AI Development |
 
 </div>
 
@@ -109,17 +137,73 @@ Court booking and management system
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzakaAl&bg_color=20232a&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🌟 Achievement Highlights
+## 🚀 Current Focus Areas
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🌐 Web Development
+Building robust web applications with PHP and modern frontend technologies
+
+**Specializing in:** System Development
+
+</td>
+<td width="33%" align="center">
+
+### 📈 Data Science
+Learning machine learning and data analysis to create data-driven solutions
+
+**Current Study:** Python, ML, NLP
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 AI Integration
+Combining web development with artificial intelligence capabilities
+
+**Goal:** AI-Powered Web Applications
+
+</td>
+</tr>
+</table>
+
+## 🌟 What Drives Me
 
 <div align="center">
 
-| 🎓 Education | 💼 Experience | 🏆 Achievements |
-|:---:|:---:|:---:|
-| Bangkit Graduate | 5+ Projects Completed | Full-Stack Development |
-| Informatics Student | Web Development | Database Management |
-| UAD University | Data Analysis | System Architecture |
+> *"I believe in the power of technology to solve real-world problems. My goal is to bridge the gap between web development and data science, creating intelligent applications that make a difference."*
 
 </div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🎯 Problem Solving
+Finding innovative solutions through code and creativity
+
+</td>
+<td width="25%" align="center">
+
+### 📚 Continuous Learning
+Always exploring new technologies and methodologies
+
+</td>
+<td width="25%" align="center">
+
+### 🤝 Collaboration
+Believing in the power of teamwork and knowledge sharing
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 Innovation
+Pushing boundaries to create impactful digital solutions
+
+</td>
+</tr>
+</table>
 
 ## 📫 Let's Connect!
 
@@ -140,7 +224,7 @@ Court booking and management system
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Thanks for visiting!</b> Feel free to reach out if you'd like to collaborate! 😊</em>
+  <em><b>Thanks for visiting!</b> Open for collaboration and always excited to work on new challenges! 😊</em>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
