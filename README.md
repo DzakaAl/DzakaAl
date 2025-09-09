@@ -1,100 +1,146 @@
-<div align="right">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Welcome GIF"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=M.%20Dzaka%20Al%20Fikri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Enthusiast&descAlignY=50&descAlign=center)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
-# Hi there! 👋 I'm M. Dzaka Al Fikri
+<br/>
 
-### 🚀 About Me
-I am a **Bangkit graduate** and currently studying **Informatics at Ahmad Dahlan University (UAD)**. I have a strong passion for software development and data science, actively honing my skills in various programming languages and cutting-edge technologies.
-
-<div align="right">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Tech GIF"/>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DzakaAl&show_icons=true&theme=react&border_radius=10&border_color=667eea" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakaAl&layout=compact&theme=react&border_radius=10&border_color=667eea" alt="Top Languages" />
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
+## 👨‍💻 About Me
+
+```typescript
+const dzaka = {
+  education: "Informatics @ Ahmad Dahlan University",
+  program: "Bangkit Academy Graduate",
+  currentFocus: ["Web Development", "Data Science", "Machine Learning"],
+  location: "Yogyakarta, Indonesia",
+  
+  skills: {
+    languages: ["PHP", "Python", "C++", "C", "JavaScript"],
+    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Excel", "Tableau", "Git", "VS Code"],
+    frameworks: ["Laravel", "Flask", "Bootstrap"]
+  },
+  
+  currentlyLearning: ["Deep Learning", "NLP", "API Development"],
+  hobbies: ["Coding", "Data Analysis", "Problem Solving"]
+};
+```
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-  <td valign="top" width="50%">
+<td width="50%">
 
-### Programming Languages
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+### 🌐 [Web Profile Padukuhan Krapakan](https://github.com/DzakaAl/Web-Profile-Padukuhan-Krapakan)
+Community website built with PHP and MySQL
+- **Tech Stack:** PHP, MySQL, Bootstrap
+- **Features:** Profile management, News system
 
-### Database & Analytics
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+</td>
+<td width="50%">
 
-  </td>
-  <td valign="top" width="50%">
+### 📚 [Library Management System](https://github.com/DzakaAl/Peminjaman-Buku-di-Perpustakaan-Tadika-Mesra)
+Digital library for book borrowing management
+- **Tech Stack:** PHP, MySQL
+- **Features:** Book catalog, Borrowing system
 
-### 🌱 Currently Learning
-- **Machine Learning** 🤖
-- **Deep Learning** 🧠
-- **Natural Language Processing** 💬
-- **API Development** 🔗
-- **Data Visualization** 📊
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Coding GIF"/>
+### 🍽️ [Hospital Canteen System](https://github.com/DzakaAl/Sistem-Pemesanan-Kantin-Rumah-Sakit)
+Online food ordering system for hospitals
+- **Tech Stack:** PHP, MySQL, JavaScript
+- **Features:** Menu management, Order tracking
 
-  </td>
+</td>
+<td width="50%">
+
+### 🏸 [Badminton Court Reservation](https://github.com/DzakaAl/Sistem-Reservasi-Lapangan-Badminton)
+Court booking and management system
+- **Tech Stack:** PHP, MySQL
+- **Features:** Booking system, Payment integration
+
+</td>
 </tr>
 </table>
 
----
+## 🛠️ Tech Stack
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DzakaAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakaAl&layout=compact&langs_count=8&theme=tokyonight"/>
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Currently Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakaAl&theme=react&border_radius=10&border=667eea" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakaAl&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzakaAl&bg_color=20232a&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
+## 🌟 Achievement Highlights
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-## 🎯 Featured Projects
-- 🌐 **Web Profile Padukuhan Krapakan**
-- 📚 **Library Management System**
-- 🍽️ **Hospital Canteen Ordering System**
-- 🏸 **Badminton Court Reservation System**
+| 🎓 Education | 💼 Experience | 🏆 Achievements |
+|:---:|:---:|:---:|
+| Bangkit Graduate | 5+ Projects Completed | Full-Stack Development |
+| Informatics Student | Web Development | Database Management |
+| UAD University | Data Analysis | System Architecture |
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-## 🤝 Let's Connect!
+## 📫 Let's Connect!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakaal10@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakaal10@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moredzl)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/665819147334057997)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/665819147334057997)
 
-<div align="right">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Connecting GIF"/>
 </div>
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DzakaAl&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Cool Developer GIF"/>
-  <br/>
-  <i>⭐ From [DzakaAl](https://github.com/DzakaAl)</i>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>Thanks for visiting!</b> Feel free to reach out if you'd like to collaborate! 😊</em>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
