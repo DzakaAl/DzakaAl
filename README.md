@@ -184,11 +184,11 @@ Combining web development with artificial intelligence capabilities
 </tr>
 </table>
 
-## 🌟 What Drives Me
+## 🌟 Motto
 
 <div align="center">
 
-> *"I believe in the power of technology to solve real-world problems. My goal is to bridge the gap between web development and data science, creating intelligent applications that make a difference."*
+> *"Keep trying, even if it burns."*
 
 <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="120" alt="Motivated Cat"/>
 
