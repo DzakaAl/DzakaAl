@@ -32,7 +32,6 @@ Hi there! I'm **M. Dzaka Al Fikri**, an **Informatics student at UAD** and a pro
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 ### 🗄️ **Databases & Cloud**
@@ -40,7 +39,6 @@ Hi there! I'm **M. Dzaka Al Fikri**, an **Informatics student at UAD** and a pro
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 ### 🔧 **Tools & Technologies**
@@ -74,7 +72,7 @@ Hi there! I'm **M. Dzaka Al Fikri**, an **Informatics student at UAD** and a pro
 
 ## 📚 Currently Learning
 - 🚀 **Advanced ML**: Exploring NLP with Hugging Face  
-- ☁️ **Cloud Computing**: Getting hands-on with AWS & GCP  
+- ☁️ **Cloud Computing**: Getting hands-on with GCP  
 - 📱 **Mobile Dev**: Flutter for cross-platform apps  
 - ⚡ **Performance Optimization**: Making apps faster and more efficient
 
