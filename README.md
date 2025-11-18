@@ -1,55 +1,107 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=M.%20Dzaka%20Al%20Fikri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Data%20Enthusiast&descAlignY=50&descAlign=center)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Web+Developer;Data+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=667eea&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Bangkit+Graduate;Informatics+Student;Web+Developer;Data+Enthusiast+📊" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **Informatics student at UAD** and **Bangkit Machine Learning Graduate** with a passion for building digital products and exploring data.  
-I enjoy creating web applications, managing databases, and discovering insights through data analysis.
+I'm an **Informatics student at UAD** and **Bangkit Machine Learning Graduate** passionate about crafting digital solutions and exploring data.  
+I love building web applications, managing databases, and analyzing data to extract insights.
 
 ### 🔥 What I'm Doing
-- Building web applications with JavaScript  
-- Managing MySQL databases  
+- Web development (JS & MySQL)  
+- Data analysis & visualization  
 - Learning Machine Learning & NLP  
-- Developing data-driven projects  
+- Building practical information systems  
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" />
+</div>
 
-### Web & Programming  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
 
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<td width="55%" align="center">
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🎮 My Tech Stack
 
-### Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<br/>
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />  
+  <b>JavaScript</b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />  
+  <b>Python</b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />  
+  <b>MySQL</b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />  
+  <b>Git</b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />  
+  <b>VS Code</b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" />  
+  <b>TensorFlow</b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" />  
+  <b>Pandas</b>
+</p>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="230" />
+<br/><br/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" />
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+  <sub>Always leveling up my dev & data skills 🎮</sub>
 </div>
 
 ---
 
 ## 📌 Featured Projects
 
-- **Community Profile System** – Village profile platform  
-- **Library Management System** – Book borrowing web app  
-- **Hospital Canteen Ordering** – Food ordering system  
-- **Badminton Court Booking** – Reservation website  
+- **Community Profile System** – Village profile web app  
+- **Library Management System** – Book borrowing system  
+- **Hospital Canteen Ordering** – Food ordering platform  
+- **Badminton Court Booking** – Sports facility reservation system  
 
-> Explore my repositories for more projects!
+> Explore my GitHub repos for more!
 
 ---
 
@@ -60,8 +112,16 @@ I enjoy creating web applications, managing databases, and discovering insights 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakaAl&layout=compact&theme=react&border_radius=10&border_color=667eea" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakaAl&theme=react&border_radius=10&border=667eea" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250" />
 </div>
 
 ---
@@ -79,8 +139,8 @@ I enjoy creating web applications, managing databases, and discovering insights 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakaal10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakaal10@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moredzl)
 
 </div>
