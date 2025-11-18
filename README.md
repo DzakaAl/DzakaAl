@@ -20,7 +20,6 @@ Hi there! I'm **M. Dzaka Al Fikri**, an **Informatics student at UAD** and a pro
 - 🌐 **Web Development**: Crafting dynamic apps with JavaScript & MySQL  
 - 📊 **Data Analysis & Visualization**: Turning raw data into actionable insights  
 - 🤖 **Machine Learning & NLP**: Diving deep into TensorFlow and beyond  
-- 🏗️ **Building Systems**: Developing practical information systems for real-world impact  
 
 ---
 
