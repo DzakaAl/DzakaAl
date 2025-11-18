@@ -71,8 +71,7 @@ Hi there! I'm **M. Dzaka Al Fikri**, an **Informatics student at UAD** and a pro
 ## 📚 Currently Learning
 - 🚀 **Advanced ML**: Exploring NLP with Hugging Face  
 - ☁️ **Cloud Computing**: Getting hands-on with GCP  
-- 📱 **Mobile Dev**: Flutter for cross-platform apps  
-- ⚡ **Performance Optimization**: Making apps faster and more efficient
+- ⚛️ **Frontend Engineering**: Deepening skills in the React ecosystem
 
 ---
 
