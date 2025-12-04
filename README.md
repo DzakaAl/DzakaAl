@@ -91,14 +91,8 @@ Here are some of my favorite projects – check them out on my repos! Each one s
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DzakaAl&show_icons=true&theme=react&border_radius=10&border_color=667eea" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakaAl&layout=compact&theme=react&border_radius=10&border_color=667eea" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakaAl&theme=react&border_radius=10&border=667eea" />
+  <img width="48%" src="https://vercel.com/dzakaals-projects/github-readme-stats/api?username=DzakaAl&show_icons=true&theme=react&border_radius=10&border_color=667eea" />
+  <img width="40%" src="https://vercel.com/dzakaals-projects/github-readme-stats/api/top-langs/?username=DzakaAl&layout=compact&theme=react&border_radius=10&border_color=667eea" />
 </div>
 
 <br/>
