@@ -53,12 +53,6 @@
 
 ###
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DzakaAl&show_icons=true&theme=react&border_radius=10&border_color=667eea" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph.svg">
