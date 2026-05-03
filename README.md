@@ -59,8 +59,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+##
 
 <div align="center">
-  <sub>keep trying, even if it burns 🔥</sub>
+  <h2>keep trying, even if it burns 🔥</h2>
 </div>
