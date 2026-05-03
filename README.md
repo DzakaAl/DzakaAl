@@ -61,6 +61,4 @@
 
 ##
 
-<div align="center">
-  <h2>keep trying, even if it burns 🔥</h2>
-</div>
+<h2>keep trying, even if it burns 🔥</h2>
