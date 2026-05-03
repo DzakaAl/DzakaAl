@@ -32,15 +32,20 @@
 
 ###
 
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/665819147334057997>">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/moredzl">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:dzakaal10@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -53,12 +58,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false">
+  </a>
+</p>
 
 ###
 
-<h2 align="center">keep trying, even if it burns 🔥</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzakaAl/DzakaAl/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="blob:https://abozanona.github.io/0131b137-c8b6-4b52-ab6d-497dc50574f8">
+</picture>
