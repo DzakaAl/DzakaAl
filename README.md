@@ -36,25 +36,19 @@
 
 ###
 
-
-
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-      </td>
-      <td align="center">
-        <a href="https://discordapp.com/users/665819147334057997>"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
-      </td>
-      <td align="center">
-        <a href="https://instagram.com/moredzl"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-      </td>
-      <td align="center">
-        <a href="mailto:dzakaal10@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://discordapp.com/users/665819147334057997">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/moredzl">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
+  </a>
+  <a href="mailto:dzakaal10@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+  </a>
 </div>
 
 ###
