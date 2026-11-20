@@ -8,16 +8,19 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg"/>
   <img src="./assets/sec-stack-light.svg" alt="Tech Stack" width="100%"/>
 </picture>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,py,tensorflow,mysql,mongodb,gcp,figma,git" height="56" alt="JavaScript, TypeScript, React, Node.js, Tailwind, Python, TensorFlow, MySQL, MongoDB, GCP, Figma, Git"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,py,tensorflow,mysql,mongodb,gcp,figma,git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,py,tensorflow,mysql,mongodb,gcp,figma,git&theme=light" height="56" alt="JavaScript, TypeScript, React, Node.js, Tailwind, Python, TensorFlow, MySQL, MongoDB, GCP, Figma, Git"/>
+</picture>
 <!-- 02 · Find Me -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-connect-dark.svg"/>
   <img src="./assets/sec-connect-light.svg" alt="Find Me" width="100%"/>
 </picture>
-<a href="https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/></a>
-<a href="https://discordapp.com/users/665819147334057997"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"/></a>
-<a href="https://instagram.com/moredzl"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/></a>
-<a href="mailto:dzakaal10@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark"/><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" alt="LinkedIn"/></picture></a>
+<a href="https://discordapp.com/users/665819147334057997"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord&theme=dark"/><img src="https://skillicons.dev/icons?i=discord&theme=light" height="40" alt="Discord"/></picture></a>
+<a href="https://instagram.com/moredzl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark"/><img src="https://skillicons.dev/icons?i=instagram&theme=light" height="40" alt="Instagram"/></picture></a>
+<a href="mailto:dzakaal10@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark"/><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" alt="Gmail"/></picture></a>
 <!-- 03 · Activity -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-activity-dark.svg"/>
@@ -36,7 +39,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-music-dark.svg"/>
   <img src="./assets/sec-music-light.svg" alt="On Repeat" width="100%"/>
 </picture>
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&mode=dark&bar_color=ffffff&bar_color_cover=true" alt="Spotify now playing"/></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&redirect=true">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&cover_image=true&theme=spotify-embed&show_offline=true&interchange=true&profanity=false&hide_remaster=true&border_radius=12&mode=dark&background_color=0d1117&bar_color=ff5a1f&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1fmexiar2ef0atinjn77zl4l0&cover_image=true&theme=spotify-embed&show_offline=true&interchange=true&profanity=false&hide_remaster=true&border_radius=12&mode=light&background_color=ffffff&bar_color=ff5a1f&bar_color_cover=false" alt="Spotify now playing"/>
+</picture>
+</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"/>
   <img src="./assets/footer-light.svg" alt="Thanks for stopping by" width="100%"/>
