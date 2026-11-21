@@ -9,7 +9,7 @@
   <img src="./assets/sec-stack-light.svg" alt="Tech Stack" width="100%"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,py,tensorflow,mysql,mongodb,gcp,figma,git&theme=dark"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Ctailwind%2Cpy%2Ctensorflow%2Cmysql%2Cmongodb%2Cgcp%2Cfigma%2Cgit&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,py,tensorflow,mysql,mongodb,gcp,figma,git&theme=light" height="56" alt="JavaScript, TypeScript, React, Node.js, Tailwind, Python, TensorFlow, MySQL, MongoDB, GCP, Figma, Git"/>
 </picture>
 <!-- 02 · Find Me -->
